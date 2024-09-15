@@ -1,0 +1,13 @@
+####################################################
+####################################################
+                    INSTRUÇÃO
+####################################################
+####################################################
+
+1 - Abrir a pasta 'Manual' e Ler Manual de Instruções (APP E MOBILE)
+2 - Copiar o aplicativo 'apk' para o telefone Android 
+3 - Instalar o aplicativo e seguir instruções do manual
+4 - Acessar o backoffice através do link => http://gov.skyflight360.com
+5 - Para o acesso ao painel do administrador do backoffice deve usar as seguintes credencias:
+    Email: admin@govangola.com
+    Palavra-passe: govAngola<@>2020
